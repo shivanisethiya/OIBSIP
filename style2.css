@@ -78,7 +78,7 @@ button:hover{
 
 #main{
    
-       background-image: url("beauty.jpg");
+       background-image: url("images/beauty.jpg");
        background-size: cover;
       background-repeat: no-repeat;
       box-shadow: 0 0 7px 3px rgb(254, 223, 229);
